@@ -5,6 +5,11 @@ date: "11 de setembro de 2018"
 output: html_document
 ---
 Alterando o código para o Alan ver;
+
+Alterando o code para Alcilene; Agora tá certo o nome;
+
+Alterando Alan urea;
+
 Aprendendo a usar o git
 ```{r}
 dados <- read.csv("dados/gapminder_data.csv")
