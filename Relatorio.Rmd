@@ -8,6 +8,8 @@ Alterando o código para o Alan ver;
 
 Alterando o code para Alciline;
 
+Alterando Alan urea;
+
 Aprendendo a usar o git
 ```{r}
 dados <- read.csv("dados/gapminder_data.csv")
