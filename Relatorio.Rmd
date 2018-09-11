@@ -4,11 +4,11 @@ author: "Alcilene"
 date: "11 de setembro de 2018"
 output: html_document
 ---
-Alterando o c√≥digo para o Alan ver;
+Alterando o cÛdigo para o Alan ver;
 
-Alterando o code para Alcilene; Agora t√° certo o nome;
+Alterando o code para Alcilene; Agora t· certo o nome;
 
-Alterando Alan urea;
+Alterando Alan urea; vamos ver se acerta!
 
 Aprendendo a usar o git
 ```{r}
